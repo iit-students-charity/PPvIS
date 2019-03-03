@@ -1,0 +1,136 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Исходные файлы">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Файлы заголовков">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Файлы ресурсов">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Исходные файлы\Planes_models">
+      <UniqueIdentifier>{7daffa35-1db6-4afd-b4a8-e292068a5591}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Исходные файлы\Planes_types">
+      <UniqueIdentifier>{45f9627f-e759-424e-8e4a-13697e730447}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Файлы заголовков\Planes_types">
+      <UniqueIdentifier>{476e54fd-0222-4051-81bf-ee8072057bb7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Файлы заголовков\Planes_models">
+      <UniqueIdentifier>{95e2d80b-3470-4f62-8a77-63f23730ae4c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Исходные файлы\Gameplay">
+      <UniqueIdentifier>{acee0919-54c9-4b1c-a0e6-1760fe86227e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Файлы заголовков\Gameplay">
+      <UniqueIdentifier>{c7e4f85d-7281-4625-bbb1-a7c7b19a9dd1}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="stdafx.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="targetver.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="resource.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="CargoPlane.h">
+      <Filter>Файлы заголовков\Planes_types</Filter>
+    </ClInclude>
+    <ClInclude Include="PassengerPlane.h">
+      <Filter>Файлы заголовков\Planes_types</Filter>
+    </ClInclude>
+    <ClInclude Include="Plane.h">
+      <Filter>Файлы заголовков\Planes_types</Filter>
+    </ClInclude>
+    <ClInclude Include="CombiPlane.h">
+      <Filter>Файлы заголовков\Planes_types</Filter>
+    </ClInclude>
+    <ClInclude Include="Map.h">
+      <Filter>Файлы заголовков\Gameplay</Filter>
+    </ClInclude>
+    <ClInclude Include="Player.h">
+      <Filter>Файлы заголовков\Gameplay</Filter>
+    </ClInclude>
+    <ClInclude Include="An_2_psg.h">
+      <Filter>Файлы заголовков\Planes_models</Filter>
+    </ClInclude>
+    <ClInclude Include="ATR_72_psg.h">
+      <Filter>Файлы заголовков\Planes_models</Filter>
+    </ClInclude>
+    <ClInclude Include="Boeing_737_crg.h">
+      <Filter>Файлы заголовков\Planes_models</Filter>
+    </ClInclude>
+    <ClInclude Include="Boeing_777_psg.h">
+      <Filter>Файлы заголовков\Planes_models</Filter>
+    </ClInclude>
+    <ClInclude Include="Bot.h">
+      <Filter>Файлы заголовков\Gameplay</Filter>
+    </ClInclude>
+    <ClInclude Include="Airbus_A321_cmb.h">
+      <Filter>Файлы заголовков\Planes_models</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="stdafx.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="Lab_3.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="CargoPlane.cpp">
+      <Filter>Исходные файлы\Planes_types</Filter>
+    </ClCompile>
+    <ClCompile Include="PassengerPlane.cpp">
+      <Filter>Исходные файлы\Planes_types</Filter>
+    </ClCompile>
+    <ClCompile Include="Plane.cpp">
+      <Filter>Исходные файлы\Planes_types</Filter>
+    </ClCompile>
+    <ClCompile Include="CombiPlane.cpp">
+      <Filter>Исходные файлы\Planes_types</Filter>
+    </ClCompile>
+    <ClCompile Include="Map.cpp">
+      <Filter>Исходные файлы\Gameplay</Filter>
+    </ClCompile>
+    <ClCompile Include="Player.cpp">
+      <Filter>Исходные файлы\Gameplay</Filter>
+    </ClCompile>
+    <ClCompile Include="An_2_psg.cpp">
+      <Filter>Исходные файлы\Planes_models</Filter>
+    </ClCompile>
+    <ClCompile Include="ATR_72_psg.cpp">
+      <Filter>Исходные файлы\Planes_models</Filter>
+    </ClCompile>
+    <ClCompile Include="Boeing_737_crg.cpp">
+      <Filter>Исходные файлы\Planes_models</Filter>
+    </ClCompile>
+    <ClCompile Include="Boeing_777_psg.cpp">
+      <Filter>Исходные файлы\Planes_models</Filter>
+    </ClCompile>
+    <ClCompile Include="Bot.cpp">
+      <Filter>Исходные файлы\Gameplay</Filter>
+    </ClCompile>
+    <ClCompile Include="Airbus_A321_cmb.cpp">
+      <Filter>Исходные файлы\Planes_models</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="World_1.txt">
+      <Filter>Файлы ресурсов</Filter>
+    </Text>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="Lab_3.rc">
+      <Filter>Файлы ресурсов</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+</Project>

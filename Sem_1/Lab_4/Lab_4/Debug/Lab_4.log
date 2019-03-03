@@ -1,0 +1,70 @@
+﻿  Lab_4.cpp
+d:\univ\ppvis\lab_4\lab_4\lab_4.cpp(315): warning C4018: <: несоответствие типов со знаком и без знака
+  d:\univ\ppvis\lab_4\lab_4\lab_4.cpp(312): note: при компиляции функции-члена "<Нет данных>" класса класс <Нет данных>
+  d:\univ\ppvis\lab_4\lab_4\lab_4.cpp(539): note: выполняется компиляция ссылки на экземпляр шаблон функции "void Graph<std::string>::Node_Iterator::getIncidentEdges(void)"
+  d:\univ\ppvis\lab_4\lab_4\lab_4.cpp(495): note: выполняется компиляция ссылки на экземпляр шаблон класс "Graph<std::string>::Node_Iterator"
+d:\univ\ppvis\lab_4\lab_4\lab_4.cpp(297): warning C4018: <: несоответствие типов со знаком и без знака
+  d:\univ\ppvis\lab_4\lab_4\lab_4.cpp(294): note: при компиляции функции-члена "<Нет данных>" класса класс <Нет данных>
+  d:\univ\ppvis\lab_4\lab_4\lab_4.cpp(534): note: выполняется компиляция ссылки на экземпляр шаблон функции "void Graph<std::string>::Node_Iterator::getAdjacentNodes(void)"
+d:\univ\ppvis\lab_4\lab_4\lab_4.cpp(276): warning C4018: <=: несоответствие типов со знаком и без знака
+  d:\univ\ppvis\lab_4\lab_4\lab_4.cpp(275): note: при компиляции функции-члена "<Нет данных>" класса класс <Нет данных>
+  d:\univ\ppvis\lab_4\lab_4\lab_4.cpp(510): note: выполняется компиляция ссылки на экземпляр шаблон функции "bool Graph<std::string>::Node_Iterator::next(void)"
+d:\univ\ppvis\lab_4\lab_4\lab_4.cpp(256): warning C4018: <: несоответствие типов со знаком и без знака
+  d:\univ\ppvis\lab_4\lab_4\lab_4.cpp(254): note: при компиляции функции-члена "<Нет данных>" класса класс <Нет данных>
+  d:\univ\ppvis\lab_4\lab_4\lab_4.cpp(471): note: выполняется компиляция ссылки на экземпляр шаблон функции "void Graph<std::string>::showEdges(void)"
+  d:\univ\ppvis\lab_4\lab_4\lab_4.cpp(370): note: выполняется компиляция ссылки на экземпляр шаблон класс "Graph<std::string>"
+d:\univ\ppvis\lab_4\lab_4\lab_4.cpp(248): warning C4018: <: несоответствие типов со знаком и без знака
+  d:\univ\ppvis\lab_4\lab_4\lab_4.cpp(246): note: при компиляции функции-члена "<Нет данных>" класса класс <Нет данных>
+  d:\univ\ppvis\lab_4\lab_4\lab_4.cpp(457): note: выполняется компиляция ссылки на экземпляр шаблон функции "void Graph<std::string>::showNodes(void)"
+d:\univ\ppvis\lab_4\lab_4\lab_4.cpp(242): warning C4267: return: преобразование из "size_t" в "short"; возможна потеря данных
+  d:\univ\ppvis\lab_4\lab_4\lab_4.cpp(241): note: при компиляции функции-члена "<Нет данных>" класса класс <Нет данных>
+  d:\univ\ppvis\lab_4\lab_4\lab_4.cpp(443): note: выполняется компиляция ссылки на экземпляр шаблон функции "short Graph<std::string>::countOfEdges(void)"
+d:\univ\ppvis\lab_4\lab_4\lab_4.cpp(238): warning C4267: return: преобразование из "size_t" в "short"; возможна потеря данных
+  d:\univ\ppvis\lab_4\lab_4\lab_4.cpp(237): note: при компиляции функции-члена "<Нет данных>" класса класс <Нет данных>
+  d:\univ\ppvis\lab_4\lab_4\lab_4.cpp(443): note: выполняется компиляция ссылки на экземпляр шаблон функции "short Graph<std::string>::countOfNodes(void)"
+d:\univ\ppvis\lab_4\lab_4\lab_4.cpp(212): warning C4018: <: несоответствие типов со знаком и без знака
+  d:\univ\ppvis\lab_4\lab_4\lab_4.cpp(211): note: при компиляции функции-члена "<Нет данных>" класса класс <Нет данных>
+  d:\univ\ppvis\lab_4\lab_4\lab_4.cpp(554): note: выполняется компиляция ссылки на экземпляр шаблон функции "short Graph<std::string>::isNodeExist(T)"
+          with
+          [
+              T=std::string
+          ]
+d:\univ\ppvis\lab_4\lab_4\lab_4.cpp(200): warning C4018: <: несоответствие типов со знаком и без знака
+  d:\univ\ppvis\lab_4\lab_4\lab_4.cpp(199): note: при компиляции функции-члена "<Нет данных>" класса класс <Нет данных>
+  d:\univ\ppvis\lab_4\lab_4\lab_4.cpp(615): note: выполняется компиляция ссылки на экземпляр шаблон функции "short Graph<std::string>::isEdgeExist(T,T)"
+          with
+          [
+              T=std::string
+          ]
+d:\univ\ppvis\lab_4\lab_4\lab_4.cpp(178): warning C4018: >=: несоответствие типов со знаком и без знака
+  d:\univ\ppvis\lab_4\lab_4\lab_4.cpp(166): note: при компиляции функции-члена "<Нет данных>" класса класс <Нет данных>
+  d:\univ\ppvis\lab_4\lab_4\lab_4.cpp(436): note: выполняется компиляция ссылки на экземпляр шаблон функции "void Graph<std::string>::edgesFromFile(std::string)"
+d:\univ\ppvis\lab_4\lab_4\lab_4.cpp(152): warning C4018: <: несоответствие типов со знаком и без знака
+  d:\univ\ppvis\lab_4\lab_4\lab_4.cpp(147): note: при компиляции функции-члена "<Нет данных>" класса класс <Нет данных>
+  d:\univ\ppvis\lab_4\lab_4\lab_4.cpp(480): note: выполняется компиляция ссылки на экземпляр шаблон функции "short Graph<std::string>::nodeDegree(T)"
+          with
+          [
+              T=std::string
+          ]
+d:\univ\ppvis\lab_4\lab_4\lab_4.cpp(137): warning C4018: <: несоответствие типов со знаком и без знака
+  d:\univ\ppvis\lab_4\lab_4\lab_4.cpp(136): note: при компиляции функции-члена "<Нет данных>" класса класс <Нет данных>
+  d:\univ\ppvis\lab_4\lab_4\lab_4.cpp(428): note: выполняется компиляция ссылки на экземпляр шаблон функции "void Graph<std::string>::deleteEdge(T,T)"
+          with
+          [
+              T=std::string
+          ]
+d:\univ\ppvis\lab_4\lab_4\lab_4.cpp(91): warning C4018: <: несоответствие типов со знаком и без знака
+  d:\univ\ppvis\lab_4\lab_4\lab_4.cpp(86): note: при компиляции функции-члена "<Нет данных>" класса класс <Нет данных>
+  d:\univ\ppvis\lab_4\lab_4\lab_4.cpp(412): note: выполняется компиляция ссылки на экземпляр шаблон функции "void Graph<std::string>::deleteNode(T)"
+          with
+          [
+              T=std::string
+          ]
+d:\univ\ppvis\lab_4\lab_4\lab_4.cpp(189): warning C4018: <: несоответствие типов со знаком и без знака
+  d:\univ\ppvis\lab_4\lab_4\lab_4.cpp(188): note: при компиляции функции-члена "<Нет данных>" класса класс <Нет данных>
+  d:\univ\ppvis\lab_4\lab_4\lab_4.cpp(317): note: выполняется компиляция ссылки на экземпляр шаблон функции "bool Graph<std::string>::isEdgeExist(short,short)"
+d:\univ\ppvis\lab_4\lab_4\lab_4.cpp(118): warning C4018: <: несоответствие типов со знаком и без знака
+  d:\univ\ppvis\lab_4\lab_4\lab_4.cpp(117): note: при компиляции функции-члена "<Нет данных>" класса класс <Нет данных>
+  d:\univ\ppvis\lab_4\lab_4\lab_4.cpp(95): note: выполняется компиляция ссылки на экземпляр шаблон функции "void Graph<std::string>::deleteEdge(short,short)"
+d:\univ\ppvis\lab_4\lab_4\lab_4.cpp(123): warning C4018: <: несоответствие типов со знаком и без знака
+  Lab_4.vcxproj -> D:\Univ\PPViS\Lab_4\Debug\Lab_4.exe

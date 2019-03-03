@@ -1,0 +1,15 @@
+﻿  stdafx.cpp
+  Airbus_A320_crg.cpp
+  An_2_psg.cpp
+  CargoPlane.cpp
+  CombiPlane.cpp
+  Lab_3.cpp
+  Map.cpp
+d:\univ\ppvis\lab_3\lab_3\map.cpp(35): warning C4018: <: несоответствие типов со знаком и без знака
+  PassengerPlane.cpp
+  Plane.cpp
+  Player.cpp
+  Создание кода
+  All 872 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  Lab_3.vcxproj -> D:\Univ\PPViS\Lab_3\Release\Lab_3.exe
